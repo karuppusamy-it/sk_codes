@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/karuppusamy-it/sk_codes/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/karuppusamy-it/sk_codes/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/karuppusamy-it/sk_codes/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/karuppusamy-it/sk_codes/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/karuppusamy-it/sk_codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/karuppusamy-it/sk_codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karuppusamy-it/sk_codes/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/karuppusamy-it/sk_codes/tree/master/1635-number-of-good-pairs) |
 ## Linked List
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/karuppusamy-it/sk_codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/karuppusamy-it/sk_codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karuppusamy-it/sk_codes/tree/master/0013-roman-to-integer) |
+| [1635-number-of-good-pairs](https://github.com/karuppusamy-it/sk_codes/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -106,4 +109,5 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/karuppusamy-it/sk_codes/tree/master/0948-sort-an-array) |
+| [1635-number-of-good-pairs](https://github.com/karuppusamy-it/sk_codes/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
