@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/karuppusamy-it/sk_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/karuppusamy-it/sk_codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/karuppusamy-it/sk_codes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/karuppusamy-it/sk_codes/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/karuppusamy-it/sk_codes/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/karuppusamy-it/sk_codes/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/karuppusamy-it/sk_codes/tree/master/1635-number-of-good-pairs) |
@@ -17,12 +18,14 @@
 | [0005-longest-palindromic-substring](https://github.com/karuppusamy-it/sk_codes/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/karuppusamy-it/sk_codes/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/karuppusamy-it/sk_codes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/karuppusamy-it/sk_codes/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/karuppusamy-it/sk_codes/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/karuppusamy-it/sk_codes/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/karuppusamy-it/sk_codes/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/karuppusamy-it/sk_codes/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/karuppusamy-it/sk_codes/tree/master/0075-sort-colors) |
 | [0948-sort-an-array](https://github.com/karuppusamy-it/sk_codes/tree/master/0948-sort-an-array) |
 ## Hash Table
