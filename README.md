@@ -48,6 +48,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/karuppusamy-it/sk_codes/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karuppusamy-it/sk_codes/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0023-merge-k-sorted-lists](https://github.com/karuppusamy-it/sk_codes/tree/master/0023-merge-k-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/karuppusamy-it/sk_codes/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/karuppusamy-it/sk_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/karuppusamy-it/sk_codes/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
@@ -111,10 +113,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/karuppusamy-it/sk_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/karuppusamy-it/sk_codes/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/karuppusamy-it/sk_codes/tree/master/0023-merge-k-sorted-lists) |
 | [0948-sort-an-array](https://github.com/karuppusamy-it/sk_codes/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
