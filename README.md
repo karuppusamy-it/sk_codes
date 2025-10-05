@@ -50,6 +50,7 @@
 | [0009-palindrome-number](https://github.com/karuppusamy-it/sk_codes/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/karuppusamy-it/sk_codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karuppusamy-it/sk_codes/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/karuppusamy-it/sk_codes/tree/master/0067-add-binary) |
 | [1635-number-of-good-pairs](https://github.com/karuppusamy-it/sk_codes/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -69,6 +70,7 @@
 | [0014-longest-common-prefix](https://github.com/karuppusamy-it/sk_codes/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/karuppusamy-it/sk_codes/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karuppusamy-it/sk_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/karuppusamy-it/sk_codes/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/karuppusamy-it/sk_codes/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
@@ -126,4 +128,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/karuppusamy-it/sk_codes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/karuppusamy-it/sk_codes/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/karuppusamy-it/sk_codes/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
