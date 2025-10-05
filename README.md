@@ -51,6 +51,7 @@
 | [0012-integer-to-roman](https://github.com/karuppusamy-it/sk_codes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/karuppusamy-it/sk_codes/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/karuppusamy-it/sk_codes/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/karuppusamy-it/sk_codes/tree/master/0069-sqrtx) |
 | [1635-number-of-good-pairs](https://github.com/karuppusamy-it/sk_codes/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -81,6 +82,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/karuppusamy-it/sk_codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/karuppusamy-it/sk_codes/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/karuppusamy-it/sk_codes/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
